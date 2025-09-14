@@ -2,7 +2,7 @@ ObraAfriTelc Telecom Data Warehouse
 
 📊 Project Overview:
 
-This project designs and implements a star-schema data warehouse for a fictional Sudanese telecom company, ObraAfriTelc. The solution ingests data from simulated operational systems (CRM, Billing, Network), transforms it through a staging layer, and loads it into an optimized dimensional model ready for analytics. The entire pipeline is built with custom T-SQL scripts on Microsoft SQL Server.
+This project designs and implements a star-schema data warehouse for a fictional telecom company, ObraAfriTelc. The solution ingests data from simulated operational systems (CRM, Billing, Network), transforms it through a staging layer, and loads it into an optimized dimensional model ready for analytics. The entire pipeline is built with custom T-SQL scripts on Microsoft SQL Server.
 
 🎯 Business Objectives
 
