@@ -57,6 +57,8 @@ Incremental Load Design: ETL processes built with watermarking for efficient dai
 Slowly Changing Dimensions (SCD): Type 2 implementation for dim_customer to track historical changes.
 
 Data Quality Framework: Built-in checks for NULLs, duplicates, and referential integrity.
+
+
 🚀 Getting Started
 Prerequisites: SQL Server Management Studio (SSMS)
 
